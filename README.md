@@ -17,9 +17,6 @@ This repository showcases **four comprehensive data analysis projects** built us
 
 **Dataset**: [Black Friday Sales Dataset](https://www.kaggle.com/datasets/sdolezel/black-friday)
 
-**📸 Visualization Preview**:
-![Black Sales](images/black_sales.png)
-
 ---
 
 ### 2. ❤️ Heart Disease Prediction
@@ -33,8 +30,6 @@ This repository showcases **four comprehensive data analysis projects** built us
 
 **Dataset**: [UCI Heart Disease Dataset](https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset)
 
-**📸 Visualization Preview**:
-![Heart Disease](images/heart_disease.png)
 
 ---
 
@@ -49,9 +44,6 @@ This repository showcases **four comprehensive data analysis projects** built us
 
 **Dataset**: [World Bank GDP Data](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD)
 
-**📸 Visualization Preview**:
-![GDP Analysis](images/gdp_analysis.png)
-
 ---
 
 ### 4. 🌾 Sugarcane Yield Prediction
@@ -65,8 +57,6 @@ This repository showcases **four comprehensive data analysis projects** built us
 
 **Dataset**: [Sugarcane Dataset - Agriculture India or Custom Dataset]
 
-**📸 Visualization Preview**:
-![Sugarcane Yield](images/sugar_yield.png)
 
 ---
 
